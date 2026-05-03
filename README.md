@@ -45,13 +45,19 @@ Delete Task
 Exit
 
 ## ▶️ Installation & Run
-Step 1: Clone Repository
-git clone https://github.com/yourusername/TaskFlowManager.git
-Step 2: Open Project Folder
-cd TaskFlowManager
-Step 3: Run Project
-dotnet run
 
+> Step 1: Clone Repository
+```
+git clone https://github.com/yourusername/TaskFlowManager.git
+```
+> Step 2: Open Project Folder
+```
+cd TaskFlowManager
+```
+> Step 3: Run Project
+```
+dotnet run
+```
 ## 💻 Sample Output
 ===== TASKFLOW MANAGER =====
 
